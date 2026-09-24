@@ -1,0 +1,8 @@
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:429:24:os_arch_primask_get	1
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:468:24:os_arch_kernel_mask_save	1
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:495:20:os_arch_kernel_mask_restore	2
+../AhuraRTOS/kernel/core/os_tick.c:47:6:os_tick_init	1
+../AhuraRTOS/kernel/core/os_tick.c:59:10:os_tick_get	1
+../AhuraRTOS/kernel/core/os_tick.c:70:6:os_tick_handler	5
+../AhuraRTOS/kernel/core/os_tick.c:127:6:os_tick_announce	3
+../AhuraRTOS/kernel/core/os_tick.c:166:10:os_cpu_usage_get	3

@@ -1,0 +1,1 @@
+../AhuraRTOS/kernel/soc/st/stm32/soc_cb.c:115:14:os_arch_soc_init_cb	8	static

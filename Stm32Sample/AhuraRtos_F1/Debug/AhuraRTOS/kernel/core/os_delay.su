@@ -1,0 +1,9 @@
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:442:20:os_arch_in_isr	16	static,ignoring_inline_asm
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:684:24:os_arch_clock_hz_get	4	static
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:1001:24:os_arch_core_id_get	4	static
+../AhuraRTOS/kernel/core/os_internal.h:325:20:os_internal_can_block	8	static
+../AhuraRTOS/kernel/core/os_delay.c:58:6:os_delay_ms	56	static
+../AhuraRTOS/kernel/core/os_delay.c:96:6:os_delay_us	64	static
+../AhuraRTOS/kernel/core/os_delay.c:126:13:os_delay_forever	8	static
+../AhuraRTOS/kernel/core/os_delay.c:151:13:os_delay_ticks	72	static
+../AhuraRTOS/kernel/core/os_delay.c:211:13:os_delay_cycle_wait	40	static

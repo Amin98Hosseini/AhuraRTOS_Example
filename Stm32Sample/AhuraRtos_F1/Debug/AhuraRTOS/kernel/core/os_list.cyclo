@@ -1,0 +1,6 @@
+../AhuraRTOS/kernel/core/os_list.c:34:6:os_list_init	2
+../AhuraRTOS/kernel/core/os_list.c:50:6:os_list_is_empty	2
+../AhuraRTOS/kernel/core/os_list.c:70:6:os_list_push_back	4
+../AhuraRTOS/kernel/core/os_list.c:97:17:os_list_pop_front	4
+../AhuraRTOS/kernel/core/os_list.c:133:6:os_list_remove	8
+../AhuraRTOS/kernel/core/os_list.c:175:6:os_list_insert_before	5

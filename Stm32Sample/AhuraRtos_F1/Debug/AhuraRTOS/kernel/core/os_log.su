@@ -1,0 +1,10 @@
+../AhuraRTOS/kernel/core/os_log.c:118:6:os_log_write	180	static
+../AhuraRTOS/kernel/core/os_log.c:186:10:os_log_dropped_get	16	static
+../AhuraRTOS/kernel/core/os_log.c:203:10:os_log_system_init	40	static
+../AhuraRTOS/kernel/core/os_log.c:249:13:os_log_task_entry	32	static
+../AhuraRTOS/kernel/core/os_log.c:326:13:os_log_queue	16	static
+../AhuraRTOS/kernel/core/os_log.c:362:13:os_log_emit_dropped	88	static
+../AhuraRTOS/kernel/core/os_log.c:387:15:os_log_append_text	24	static
+../AhuraRTOS/kernel/core/os_log.c:409:15:os_log_append_u32	40	static
+../AhuraRTOS/kernel/core/os_log.c:445:15:os_log_free_space	16	static
+../AhuraRTOS/kernel/core/os_log.c:470:13:os_log_put	24	static

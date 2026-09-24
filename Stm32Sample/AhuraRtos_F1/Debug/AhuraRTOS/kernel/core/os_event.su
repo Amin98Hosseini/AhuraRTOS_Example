@@ -1,0 +1,10 @@
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:442:20:os_arch_in_isr	16	static,ignoring_inline_asm
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:1001:24:os_arch_core_id_get	4	static
+../AhuraRTOS/kernel/core/os_internal.h:325:20:os_internal_can_block	8	static
+../AhuraRTOS/kernel/core/os_internal.h:337:24:os_internal_timeout_to_ticks	16	static
+../AhuraRTOS/kernel/core/os_internal.h:370:24:os_internal_wait_remaining	24	static
+../AhuraRTOS/kernel/core/os_event.c:71:10:os_event_init	24	static
+../AhuraRTOS/kernel/core/os_event.c:110:10:os_event_set_bits	32	static
+../AhuraRTOS/kernel/core/os_event.c:145:10:os_event_clear_bits	24	static
+../AhuraRTOS/kernel/core/os_event.c:179:10:os_event_wait_bits	56	static
+../AhuraRTOS/kernel/core/os_event.c:303:13:os_event_waiter_match	40	static

@@ -1,0 +1,7 @@
+../AhuraRTOS/kernel/core/os_mem.c:91:7:os_mem_alloc	10
+../AhuraRTOS/kernel/core/os_mem.c:175:6:os_mem_free	8
+../AhuraRTOS/kernel/core/os_mem.c:217:8:os_mem_free_get	2
+../AhuraRTOS/kernel/core/os_mem.c:241:8:os_mem_watermark_get	2
+../AhuraRTOS/kernel/core/os_mem.c:274:13:os_mem_init	1
+../AhuraRTOS/kernel/core/os_mem.c:319:13:os_mem_block_plausible	5
+../AhuraRTOS/kernel/core/os_mem.c:343:13:os_mem_block_insert	6

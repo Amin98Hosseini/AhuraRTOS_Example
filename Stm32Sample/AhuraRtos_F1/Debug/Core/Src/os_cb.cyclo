@@ -1,0 +1,3 @@
+../Core/Src/os_cb.c:76:14:os_assert_failed_cb	1
+../Core/Src/os_cb.c:104:14:os_stack_overflow_cb	1
+../Core/Src/os_cb.c:132:14:os_log_output_cb	1

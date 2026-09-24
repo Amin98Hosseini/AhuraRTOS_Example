@@ -1,0 +1,54 @@
+/**
+ * @file os_main.c
+ * @brief Template for the application's default task body.
+ *
+ * NOT part of the kernel build (like os_cb.c): copy this file into the application source
+ * tree as os_main.c, add it to the APPLICATION build, and write the application's own code inside
+ * os_main(). Its prototype is already in ahura.h.
+ *
+ * The "_cb" suffix used elsewhere is reserved for callbacks the kernel queries for platform
+ * behaviour; os_main() is different in kind - it is where the application's code runs - even
+ * though it is supplied the same way.
+ *
+ * The task itself is created by os_init(), unconditionally except in self-test builds, and sized
+ * by OS_CONFIG_MAIN_TASK_STACK_SIZE / OS_CONFIG_MAIN_TASK_PRIORITY. Nothing to call from main().
+ *
+ * os_main() is WEAK, like everything in os_cb.c: a normal definition anywhere else in the
+ * application replaces this one at link time instead of colliding with it. That is what lets a
+ * file from examples/kernel/ be dropped straight into a project that already has this copy - the
+ * example's os_main() simply takes over, and this file can stay where it is.
+ *
+ * @copyright (c) 2026 Ahura Project Contributors
+ *            SPDX-License-Identifier: GPL-3.0-or-later
+ *            See LICENSE in the project root for the full license text.
+ */
+
+/*
+ * ***********************************************************************************************************
+ * Includes
+ * ***********************************************************************************************************
+*/
+
+#include "ahura.h"
+
+/*
+ * ***********************************************************************************************************
+ * Public function implementations
+ * ***********************************************************************************************************
+*/
+
+/******************************************************************************************************/
+/**
+ * @brief Default application task body: runs once os_start() hands control to task context.
+ *        Replace the body with the application's own code.
+ *
+ * @return None.
+ */
+OS_WEAK void os_main(void)
+{
+    while (1)
+    {
+        /* TODO: replace with the application's own code. */
+        os_delay_ms(1000U);
+    }
+}

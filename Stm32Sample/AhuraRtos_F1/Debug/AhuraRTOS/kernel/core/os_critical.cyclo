@@ -1,0 +1,9 @@
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:429:24:os_arch_primask_get	1
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:468:24:os_arch_kernel_mask_save	1
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:495:20:os_arch_kernel_mask_restore	2
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:585:20:os_arch_isr_priority_check	1
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:1001:24:os_arch_core_id_get	1
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:1040:20:os_arch_spinlock_acquire	1
+E:/Electronics/STM32/AhuraOS/AhuraRTOS_Example/Stm32Sample/AhuraRtos_F1/AhuraRTOS/kernel/arch/arm/cortex_m3/../common/os_arch_port_common.h:1069:20:os_arch_spinlock_release	1
+../AhuraRTOS/kernel/core/os_critical.c:63:6:os_critical_enter	2
+../AhuraRTOS/kernel/core/os_critical.c:93:6:os_critical_exit	4
